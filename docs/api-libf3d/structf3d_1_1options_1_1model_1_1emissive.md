@@ -65,3 +65,4 @@ std::optional<std::filesystem::path> f3d::options::model::emissive::texture
 [const]: https://img.shields.io/badge/-const-lightblue (const)
 [protected]: https://img.shields.io/badge/-protected-yellow (protected)
 [static]: https://img.shields.io/badge/-static-lightgrey (static)
+[private]: https://img.shields.io/badge/-private-red (private)
